@@ -86,8 +86,10 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * Describe what a "reset" CSS file does and how it's useful.
 * Describe Floats and how they work.
 * What are the various clearing techniques and which is appropriate for what context?
+  http://css-tricks.com/all-about-floats/
 * Explain CSS sprites, and how you would implement them on a page or site.
 * What are your favourite image replacement techniques and which do you use when?
+  http://css-tricks.com/css-image-replacement/
 * CSS property hacks, conditionally included .css files, or... something else?
 * How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
